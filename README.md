@@ -1,2 +1,4 @@
 # UTDAVbcPandasHW
-Week 4:  Pandas assignment - Heros of Pylomi
+UTDAVbc pandas Homework Week 4
+
+This assignment taught me a great deal about pandas via the many errors I encountered along the way.  I would still like to understand more about the differences between attributes and function calls/methods for DataFrames vs. DataSeries vs. Groupby objects vs. Styler objects and the other various object types used.  The Styler object in particular looks very interesting and powerful in applying stylized condition formatting to pandas DataFrames, in the same manner we did previously with VBA in Excel.  I intend to play around with this more to get a better grasp on these capabilities.
